@@ -1,0 +1,15 @@
+- acceder a configuracion desde el menu derecho
+	- ![image.png](../assets/image_1706129778834_0.png)
+- acceder a opciones de desarrollador o developer settings
+	- ![image.png](../assets/image_1706129833579_0.png)
+- personal access token
+	- ![image.png](../assets/image_1706129857427_0.png)
+- generar nuevo token clasico
+	- ![image.png](../assets/image_1706129888145_0.png)
+- agregar un nombre y definir la expiracion del token
+	- ![image.png](../assets/image_1706130590264_0.png)
+- marcar todos los checks
+	- ![image.png](../assets/image_1706130664025_0.png){:height 651, :width 749}
+	- ![image.png](../assets/image_1706130647918_0.png)
+- guardar el token de forma segura, este nos dara acceso a github y repositorios via git
+-

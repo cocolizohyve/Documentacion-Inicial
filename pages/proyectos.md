@@ -1,0 +1,9 @@
+- proyectos que seran enviados al tecnologico.
+	- Proyecto 1.
+		- Modulo de configuracion de servicios de control de plagas en sitio WEB.
+	- Proyecto 2
+		- Modulo de reportes y administracion para el control de plagas en sitio web.
+	- Proyecto 3
+		- Modulo de escaneo de datos durante el servicio de control de plagas online y offline en aplicacion movil.
+	- Proyecto 4.
+		- Modulo de elaboracion y configuracion de reportes de servicios de control de plagas Online y Offline en aplicacion movil.

@@ -1,0 +1,23 @@
+# Instalacion
+	- [android studio](https://developer.android.com/studio?gclid=CjwKCAiAzc2tBhA6EiwArv-i6f76byHK1Bzgv0XB-NAx9kdEyJGcGbJaefy6MJvkwJqMJgGDLPb3FhoCoSYQAvD_BwE&gclsrc=aw.ds&hl=es-419)
+	- [React Native cli](https://reactnative.dev/docs/environment-setup)
+	- el uso de react native es necesario para el desarrollo de apps moviles multiplataforma, ios y android
+	- recomendado el uso de cli ya que depende de el propio sistema, no como expo que depende de un servidor externo
+-
+- # Comandos
+	- npx react-native init <nombre del proyecto>
+	- npx react-native start
+		- modificadores mas importantes
+			- run-ios
+			- run-android
+			- --reset-cache
+	- limpieza de archivos de android
+		- ./gradlew clean
+-
+- # Elementos a aprender
+	- estructura de JavaScript (algunos elementos cambian a view o card)
+	- uso de props
+	- ApiAxios
+	- UseEffect
+	- UseState
+	- funciones asyncronas

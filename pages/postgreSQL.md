@@ -1,0 +1,3 @@
+- cuenta con la sintaxis de sql, asi que no habra mucha complicacion con el uso de postgres
+	- [Documentacion de postgres en su web oficial](https://www.postgresql.org/docs/current/index.html)
+- el manejo principal de las base de datos sera por medio de pgAdmin, lo mas parecido a sqlWorkbench

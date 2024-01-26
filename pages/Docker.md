@@ -1,0 +1,12 @@
+# Instalacion de docker
+	- https://www.docker.com
+	- link para descarga de docker
+- # Levantar proyectos de docker
+	- montar los proyectos de docker es via un por un par de comandos, asi mismo la edicion de estos proyectos con lleva construirlos y darlos de baja una o varias veces
+	- ## Comandos docker
+		- docker compose down
+			- permite dar de baja el proyecto de docker
+		- docker compose build
+			- construye el proyecto de docker com las modificaciones hechas en su dockerfile o docker-compose.yml
+		- docker compose up
+			- sube el proyecto a un contenedor en docker, construyendo su red y servicios

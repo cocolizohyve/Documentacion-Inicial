@@ -1,0 +1,15 @@
+# Instalacion
+	- ## Windows
+		- [Descargar Git Windos](https://git-scm.com/download/win)
+	- ## Mac
+		- [Descargar Git MacOS](https://git-scm.com/download/mac)
+-
+- # Cuenta de Github
+	- [GitHub](https://github.com)
+	- ## Crear token de GitHub
+		- [[Token github]]
+	-
+- # iniciar cuenta en git
+	- [[cuenta en git]]
+- # Comandos principales de git
+	- [[comandos git]]

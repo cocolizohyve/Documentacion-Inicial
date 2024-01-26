@@ -1,0 +1,15 @@
+# listado de proyectos
+	- [[proyectos]]
+-
+- # capacitacion
+	- [[Logseq]]
+	- [[Git y Github]]
+	- [[Visual Studio Code]]
+	- [[Jira]]
+	- [[Figma]]
+	- [[Docker]]
+	- [[Python]]
+	- [[PostgreSQL]]
+	- [[React.js]]
+	- [[React Native]]
+-
